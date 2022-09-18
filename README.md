@@ -6,7 +6,7 @@ What do you need:
 
 - Arduino Nano = <5 euro
 - [MCP 2515 CAN module](https://www.amazon.nl/gp/product/B07MY2D7TW/) = 7 euro
-- [Bafang 6 pin brake cable (Female)](https://www.aliexpress.com/item/1005004128109927.html) = 9 euro
+- [Bafang 6 pin brake cable (Female)](https://www.aliexpress.com/item/1005004128109927.html) = 9 euro or [here](https://a.aliexpress.com/_EIiGmyn) = 5.57
 
 Connect MCP 2515 and arduino like shown [here](https://github.com/autowp/arduino-mcp2515) (no need for power converter, power comes over usb to the arduino and can module):
 
